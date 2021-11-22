@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 Hoje trabalho no back-end
-- 🌱 Estudando nodejs
+- 🌱 Estudando node-js
 - 📫 Instagram :https://www.instagram.com/gustavo_caetno/
 
 <div align="center">
