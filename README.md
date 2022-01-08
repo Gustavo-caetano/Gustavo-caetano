@@ -5,7 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-
+<style>
+img{
+	margin:10px;
+	height:auto;
+	width:30em;
+}
+</style>
 
 - 🔭 Hoje trabalho no back-end
 - 🌱 Estudando node-js
@@ -13,7 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/Gustavo-caetano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-caetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-caetano&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-caetano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-caetano&layout=compact&langs_count=7&theme=radical"/></br>
+
 </div>
 
