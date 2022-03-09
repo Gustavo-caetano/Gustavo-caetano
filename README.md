@@ -5,15 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<!-- <style>
-img{
-	margin:10px;
-	height:auto;
-	width:30em;
-}
-</style> -->
 
-- 🔭 Hoje trabalho no back-end
 - 🌱 Estudando node-js
 - 📫 Instagram :https://www.instagram.com/gustavo_caetno/
 
