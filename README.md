@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Estudando node-js
+- 🌱 Estudando C#
 - 📫 Instagram :https://www.instagram.com/gustavo_caetno/
 
 <div align="center">
